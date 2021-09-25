@@ -1,0 +1,12 @@
+{
+	"twitter": {
+		"consumer_key": "your twitter consumer key",
+		"consumer_secret": "your twitter consumer secret",
+		"access_token": "your twitter access token",
+		"access_token_secret": "your twitter access token secret"
+	},
+	"telegram": {
+		"access_token": "your telegram access token",
+		"username": "your telegram username"
+	}
+}

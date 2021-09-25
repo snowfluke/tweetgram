@@ -1,0 +1,12 @@
+{
+	"name": "tweetgram",
+	"version": "1.0.0",
+	"description": "Telegram bot for Twitter Task Airdrop",
+	"main": "main.js",
+	"author": "Awal Ariansyah",
+	"license": "MIT",
+	"dependencies": {
+		"telegraf": "^4.4.2",
+		"twit": "^2.2.11"
+	}
+}
