@@ -2,7 +2,7 @@
 Telegram bot for Twitter Task Airdrop (Like, Retweet, Follow, Quote Retweet)
 
 # Demo
-![Tweetgram 1](./tweetgram1.png)\
+![Tweetgram 1](./tweetgram1.png)
 ![Tweetgram 2](./tweetgram2.png)
 
 # Configuration
