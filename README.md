@@ -17,7 +17,7 @@ Enter your Twitter API Credential and Telegram BOT Token at **config.json**
 4. Get the Bot Token
 
 # Deploying Bot
-You can use heroku, make sure you clone this repo to your Github account repositories.
+You can use heroku, make sure you clone this repo to your Github account repositories.\
 See Tutorial here https://www.youtube.com/watch?v=BPvg9bndP1U, it's the same for Telegram Bot.
 
 Worker: node main.js
