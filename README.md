@@ -12,7 +12,8 @@ Enter your Twitter API Credential and Telegram BOT Token at **config.json**
 1. Go to Twitter Dev Portal https://developer.twitter.com/en/portal/dashboard
 2. Sign up as Hobyist > Making A bot
 3. Generate API Key and Access Token
-4. See Tutotial video https://www.youtube.com/watch?v=vlvtqp44xoQ
+4. Make sure you set the permission to Read and Write
+5. See Tutotial video https://www.youtube.com/watch?v=vlvtqp44xoQ
 
 # How to get Telegram Bot Token
 1. Chat to BotFather https://t.me/BotFather
