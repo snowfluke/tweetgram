@@ -89,6 +89,7 @@ function retweet(id) {
 			if (err) {
 				if (err.code != 327) {
 					reject(err);
+					return;
 				}
 				resolve();
 				return;
@@ -119,8 +120,8 @@ function quoteRetweet(obj) {
 				reject(err);
 				return;
 			}
+			
 			returnData.link = `https://twitter.com/${data.user.screen_name}/status/${data.id_str}`;
-
 			return resolve(returnData);
 		});
 	});
@@ -137,6 +138,7 @@ function like(id) {
 			if (err) {
 				if (err.code !== 139) {
 					reject(err);
+					return;
 				}
 				resolve();
 				return;
